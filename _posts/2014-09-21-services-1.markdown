@@ -2,7 +2,7 @@
 layout: default
 img: fitphoto4.jpg
 category: Services
-title: Services:Coaching<br>Standard Package
+title: Services:Coaching Standard Package
 price: Price:$300.00
 description: |
 ---
