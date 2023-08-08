@@ -1,10 +1,9 @@
 ---
 layout: default
-img: dog.png
+img: fitphoto.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Services:<br>Online Consultation:Per Hour
+price: $50.00 
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+The Online Consultation is a great option for those interested in getting started on their Fitness Journey! It is a place to talk and set goals and obtain information based upon your needs. 
