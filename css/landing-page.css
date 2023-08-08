@@ -29,7 +29,8 @@ h6 {
 .price {
     font-size: 18px;
     font-weight: bolder;
-    color: coral;
+    font-family: Verdana;
+    color:darkgrey;
 }
 
 .intro-header {
