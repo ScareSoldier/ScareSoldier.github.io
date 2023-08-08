@@ -22,10 +22,8 @@ h6 {
 }
 
 .lead {
-    font-family: Arial, sans-serif;
     font-size: 18px;
-    color: #007bff; /* Blue color */
-    font-weight: bold;
+    font-weight: 400;
 }
 
 .intro-header {
