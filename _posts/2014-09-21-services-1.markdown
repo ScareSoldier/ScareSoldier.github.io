@@ -2,7 +2,10 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Services:<br>Coaching:Standard Package
+price: $300
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+The Standard Coaching Package Includes: A Custom 4 week Diet and Training Program With 2 Online follows ups (1 every 2 weeks within a 4 week period) And a Online Consultation
+
+Eveything is Tailored towards your goals and is based upon your lifestyle and body composition. So if you want to lose weight, build muscle or both, you came to the right place!
