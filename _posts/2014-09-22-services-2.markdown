@@ -2,8 +2,8 @@
 layout: default
 img: fitphoto.jpg
 category: Services
-title: Services:<br>Online Consultation:Per Hour
-price: Price:<br>$50.00 
+title: Services:Online Consultation<br>Per Hour
+price: Price:$50.00 
 description: |
 ---
 The Online Consultation is a great option for those interested in getting started on their Fitness Journey! It is a place to talk and set goals and obtain information based upon your needs. 
