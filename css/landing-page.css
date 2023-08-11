@@ -172,9 +172,8 @@ p.copyright {
 }
 
 #google_translate_element {
-    position: relative;
     display: inline-block;
-    background-color: #fff;
+    background-color: #f7f7f7;
     border: 1px solid #ccc;
     border-radius: 5px;
     padding: 10px;
