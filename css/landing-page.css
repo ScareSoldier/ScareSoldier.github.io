@@ -174,17 +174,10 @@ p.copyright {
 #google_translate_element {
     position: relative;
     display: inline-block;
-}
-
-#google_translate_element iframe {
+    display: none !important;
     border: none;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     border-radius: 4px;
     overflow: hidden;
     max-width: 200px; /* Adjust the width as needed */
-}
-
-/* Hide Google's top bar */
-.goog-te-banner-frame {
-    display: none !important;
 }
