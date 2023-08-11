@@ -24,13 +24,28 @@
                     <a class="page-scroll" href="#contact">Contact</a>
                 </li>
             </ul>
-            <div id ="google_translate_element"></div>
-                    <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-                    <script>
-                        function googleTranslateElementInit(){
-                            new google.translate.TranslateElement({pageLanguage:'en'},'google_translate_element');
-                        }
-                    </script>
+            <div id="google_translate_element"></div>
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script>
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+        
+        // Customize the widget's appearance after it's initialized
+        customizeTranslateWidget();
+    }
+
+    function customizeTranslateWidget() {
+        // Find the iframe containing the widget
+        var translateFrame = document.querySelector('#google_translate_element iframe');
+        
+        if (translateFrame) {
+            // Apply custom styles to the iframe
+            translateFrame.style.border = '1px solid #ccc';
+            translateFrame.style.borderRadius = '5px';
+            translateFrame.style.boxShadow = '0 2px 5px rgba(0, 0, 0, 0.1)';
+        }
+    }
+</script>
         </div>
         <!-- /.navbar-collapse -->
     </div>
