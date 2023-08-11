@@ -171,7 +171,38 @@ p.copyright {
     margin: 15px 0 0;
 }
 
-#google_translate_element:hover {
-    width: 50px;
-    height: 50px;
+#google_translate_element input[type="button"]:hover {
+    background-color: #0056b3;
+}
+
+/* Style the translate button */
+#google_translate_element input[type="button"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 6px 12px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+/* Style the language dropdown */
+#google_translate_element select {
+    background-color: #fff;
+    border: 1px solid #aaa;
+    border-radius: 3px;
+    padding: 6px 12px;
+    font-size: 14px;
+    color: #333;
+    width: 120px;
+}
+
+#google_translate_element {
+    position: relative;
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
