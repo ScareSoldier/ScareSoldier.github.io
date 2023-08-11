@@ -170,3 +170,10 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+#google_translate_element {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+}
