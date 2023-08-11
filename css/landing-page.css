@@ -170,3 +170,23 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+#google_translate_element div.goog-te-gadget-simple {
+    font-size: 19px;
+}
+
+#google_translate_element div.goog-te-gadget-simple {
+    background-color: black;
+}
+
+#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span {
+    color: green
+}
+
+#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span:hover {
+    color: blue
+}
+
+#google_translate_element div.goog-te-gadget-simple {
+    border: none;
+}
