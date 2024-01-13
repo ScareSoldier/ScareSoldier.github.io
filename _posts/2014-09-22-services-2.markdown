@@ -3,7 +3,7 @@ layout: default
 img: fitphoto.jpg
 category: Services
 title: Services:Online Consultation
-price: Price:free
+price: Price: Free
 description: |
 ---
 The Online Consultation is a great option for those interested in getting started on their Fitness Journey! It is a place to talk and set goals and obtain information based upon your needs. 
