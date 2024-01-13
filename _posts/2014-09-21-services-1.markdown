@@ -3,7 +3,7 @@ layout: default
 img: fitphoto4.jpg
 category: Services
 title: Services:Coaching Standard Package
-price: January Promo Price:$300.00
+price: January Promo Price:$200.00
 description: |
 ---
 The Standard Coaching Package Includes: A Custom 4 week Diet and Training Program With 2 Online follows ups (1 every 2 weeks within a 4 week period) And a Online Consultation
