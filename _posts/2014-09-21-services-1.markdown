@@ -3,7 +3,6 @@ layout: default
 img: fitphoto4.jpg
 category: Services
 title: Services:Coaching Standard Package
-Original Price: $300.00
 January Promo Price: $200.00
 description: |
 ---
